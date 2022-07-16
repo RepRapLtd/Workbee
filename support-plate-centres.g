@@ -1,0 +1,25 @@
+; Centre X and Y: 10 10
+G1 X10.00 Y10.00 F1000.00
+G1 Z-1.30 F50.00
+G1 Z1.00 F1000.00
+; Command: o
+; Centre X and Y: 10 20
+G1 X10.00 Y30.00 F1000.00
+G1 Z-1.30 F50.00
+G1 Z1.00 F1000.00
+; Command: o
+; Centre X and Y: 20 20
+G1 X30.00 Y30.00 F1000.00
+G1 Z-1.30 F50.00
+G1 Z1.00 F1000.00
+; Command: o
+; Centre X and Y: 20 10
+G1 X30.00 Y10.00 F1000.00
+G1 Z-1.30 F50.00
+G1 Z1.00 F1000.00
+; Command: o
+; Centre X and Y: 60 20
+G1 X60.00 Y20.00 F1000.00
+G1 Z-1.30 F50.00
+G1 Z1.00 F1000.00
+
